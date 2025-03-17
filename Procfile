@@ -1,0 +1,1 @@
+web: streamlit run CCFD_script.py --server.port 8080 --server.address 0.0.0.0
